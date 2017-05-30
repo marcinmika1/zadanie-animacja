@@ -1,0 +1,56 @@
+body{
+    box-sizing: border-box;
+    background-color: black;
+    
+}
+
+div{
+    width: 500px;
+    height: 500px;
+    background-color: white;
+    text-align: center;
+    line-height: 500px;
+    
+    
+}
+
+
+p{
+    font-size: 100px;
+
+}
+
+p#numer1{
+
+}
+p#numer2{
+
+     z-index: 0;
+}
+p#numer3{
+    
+}
+p#numer4{
+    
+}
+p#numer5{
+    
+}
+p#numer6{
+    
+}
+p#numer7{
+    
+}
+p#numer8{
+    
+}
+p#numer9{
+    
+}
+p#numer10{
+    
+}
+p#numer11{
+    
+}
